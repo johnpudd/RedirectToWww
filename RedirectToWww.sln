@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedirectToWww", "..\..\..\Repos\RedirectToWww\RedirectToWww\RedirectToWww\RedirectToWww.csproj", "{FAFE8AE7-0610-4D83-A125-1CCC9EAF2E6A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedirectToWww", ".\RedirectToWww\RedirectToWww.csproj", "{FAFE8AE7-0610-4D83-A125-1CCC9EAF2E6A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
